@@ -6,5 +6,6 @@ hello hhh
 hello hhh
 hello hhh
 hello hhh
+<<<<<<< HEAD
 hello hhh master test
-hello hhh
+hello hhh hot-fix
